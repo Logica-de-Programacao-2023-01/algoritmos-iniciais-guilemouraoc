@@ -2,5 +2,5 @@ Algoritmo de soma de dois números: um algoritmo simples que pede dois números 
 entrada e retorna a soma desses dois números.
 1: Leia A
 2: Leia B
-3: Some = A + B
+3: soma = A + B
 4: Imprima soma
