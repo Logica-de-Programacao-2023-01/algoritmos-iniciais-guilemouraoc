@@ -1,11 +1,11 @@
 Início
 Leia a lista de números = list_1
-Tamanho da lista= elementos da list_1
+leia tamanho_lista
 Leia tamanho da lista = y
 var(soma) = 0
-Inicialize a variável tamanho como o tamanho da lista de números
+Inicialize a variável tamanho c
 Para cada elemento da lista de números, faça
 Adicione o valor do elemento à soma
 Calcule a média = (var(soma)+list_1)/y
 Imprima o valor da média
-Fim
+
