@@ -1,6 +1,11 @@
-Algoritmo de cálculo de média: um algoritmo que calcula a média de uma lista de números.
-1. leia X
-2. leia Y
-3. leia Z
-4. média = (X+Y+Z)/3 
-5. escreva média
+Início
+Leia a lista de números = list_1
+Tamanho da lista= elementos da list_1
+Leia tamanho da lista = y
+var(soma) = 0
+Inicialize a variável tamanho como o tamanho da lista de números
+Para cada elemento da lista de números, faça
+Adicione o valor do elemento à soma
+Calcule a média = (var(soma)+list_1)/y
+Imprima o valor da média
+Fim
